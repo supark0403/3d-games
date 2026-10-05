@@ -4,13 +4,13 @@ Godot 4.7 3D 미니게임 10종: 2048, Suika, Survivor, Flight, Tetris, Shooter,
 
 ## 웹에서 하기
 
-https://supark0403.github.io/3d-land-odyssey/
+https://supark0403.github.io/3d-games/
 
 ## 직접 실행
 
-- Windows: [Releases](https://github.com/supark0403/3d-land-odyssey/releases) 에서 `3d-land-odyssey.exe` 다운로드 (단일 파일)
-- Android: `3d-land-odyssey.apk` 다운로드 후 설치 (출처 불명 허용 필요)
-- macOS: `3d-land-odyssey-macos.zip` 압축 해제 후 `3d 2048.app` 실행 (첫 실행은 우클릭 → 열기)
+- Windows: [Releases](https://github.com/supark0403/3d-games/releases) 에서 `3d-games.exe` 다운로드 (단일 파일)
+- Android: `3d-games.apk` 다운로드 후 설치 (출처 불명 허용 필요)
+- macOS: `3d-games-macos.zip` 압축 해제 후 `3d 2048.app` 실행 (첫 실행은 우클릭 → 열기)
 - 에디터: Godot 4.7.2로 `project.godot` 열기 → F5
 
 ## 조작
